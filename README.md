@@ -103,6 +103,14 @@ The **Agentic Employee** knows how to tokenize your physical sips.
 
 ---
 
-`0^π | π⁰ = 1` `3.30 USDC`  
+## 🐐 The Trilogy
+
+- **Agentic Employee Manifesto** — Philosophy
+- **Agentic CV** — Professional Application  
+- **Agentic GOAT** — The Proof ([Lil Orbits → On-Chain → Global](https://github.com/madeinathens/agentic-goat))
+
+---
+
+`0^π | π⁰ = 1` `3.30 Hybrid USDC`  
 **madeinathens.eth**  
 © 2012
